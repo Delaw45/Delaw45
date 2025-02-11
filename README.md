@@ -1,7 +1,7 @@
 # Band Name Generator
 
 The Band Name Generator is a beginner-friendly Python
-project that randomly combines creative words to 
+project that combines creative words to 
 generate unique and catchy band names.
 
 This project introduces fundamental coding concepts
