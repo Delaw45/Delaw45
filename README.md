@@ -1,4 +1,4 @@
-# 100 Days of Python Challenge  
+#100 Days of Python Challenge  
 
 This repository contains my projects for the 100-day Python coding challenge.  
 
