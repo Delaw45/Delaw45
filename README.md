@@ -1,10 +1,8 @@
-# Band Name Generator
+# 100 Days of Python Challenge  
 
-The Band Name Generator is a beginner-friendly Python
-project that combines creative words to 
-generate unique and catchy band names.
+This repository contains my projects for the 100-day Python coding challenge.  
 
-This project introduces fundamental coding concepts
-such as string manipulation, printing,and handling user input. 
-It is especially useful for beginners who want to 
-practice writing simple Python programs.
+## Progress  
+- **Day 1:** [Band name generator](Day_01/band_name.py) - A simple program to create band names by user inputs.  
+- **Day 2:** [Tip Calculator](Day_02/tip_calculate.py) - A simple program to split bills with tips.
+- **Day 3:** Coming soon...
